@@ -1,5 +1,4 @@
 from netmiko import ConnectHandler
-import time, sys, getpass, paramiko 
 
 print ("Before connecting")
 
